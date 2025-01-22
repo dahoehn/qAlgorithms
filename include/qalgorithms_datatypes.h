@@ -101,7 +101,7 @@ namespace qAlgorithms
 
   struct qCentroid
   {
-    double mz;
+    float mz;
     float mzError = -1;
     unsigned int scanNo;
     float int_area;   // the intensity is never used during binning @todo

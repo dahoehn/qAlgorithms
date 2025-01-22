@@ -1,3 +1,6 @@
+// this is an archive branch for code that exemplifies how sorting or not sorting the array passed into binning can effect the results
+// the effect in question was stopped by making the m/z variable a double-precision value
+
 // internal
 #include "qalgorithms_qpeaks.h"
 #include "qalgorithms_qbin.h"
